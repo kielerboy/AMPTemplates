@@ -1,0 +1,128 @@
+[
+    {
+        "DisplayName": "name",
+        "Category": "",
+        "Description": "server name",
+        "Keywords": "",
+        "FieldName": "name",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "name",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "test server",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "maxplayers",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "maxplayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "maxplayers",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "5",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "stream-distance",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "stream-distance",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "stream-distance",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "550",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "announce",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "announce",
+        "InputType": "checkbox",
+        "IsFlagArgument": true,
+        "ParamFieldName": "announce",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "true",
+        "EnumValues": {
+            "true": "True",
+            "false": "False"
+        }
+    },
+    {
+        "DisplayName": "csharp",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "csharp",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "csharp",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "enabled",
+        "EnumValues": {
+            "enabled": "True",
+            "disable": "False"
+        }
+    },
+    {
+        "DisplayName": "port",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "port",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "port",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "22005",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "voice-chat",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "voice-chat",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "voice-chat",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "true",
+        "EnumValues": {
+            "true": "True",
+            "false": "False"
+        }
+    },
+    {
+        "DisplayName": "voice-chat-sample-rate",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "voice-chat-sample-rate",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "voice-chat-sample-rate",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "48000",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "language",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "language",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "language",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "de",
+        "EnumValues": {}
+    }
+]
