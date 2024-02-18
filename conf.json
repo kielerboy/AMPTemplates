@@ -1,0 +1,13 @@
+{
+	"maxplayers" : {{maxplayers}},
+	"name" : "{{name}}", 
+	"gamemode" : "{{gamemode}}", 
+	"stream-distance" : {{stream-distance}},
+	"announce" : {{announce}},
+	"csharp" : "{{csharp}}",
+	"port": {{port}},
+	"voice-chat": {{voice-chat}},
+	"voice-chat-sample-rate": {{voice-chat-sample-rate}},
+	"language":"{{language}}" 
+	
+}
