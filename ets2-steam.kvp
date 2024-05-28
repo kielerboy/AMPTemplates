@@ -1,7 +1,7 @@
 Meta.DisplayName=Ets2 Steam
 Meta.Description=ETS2 Steam
 Meta.Arch=x86_64
-Meta.Author=Kielerboy - Made with AMP Config Generator
+Meta.Author=Kielerboy
 Meta.URL=
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
