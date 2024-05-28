@@ -2,8 +2,8 @@
     {
         "Protocol": "Both",
         "Port": "27025",
-        "Name": "",
+        "Name": "main",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "main"
     }
 ]
