@@ -1,7 +1,7 @@
 {
     "bindAddress":"{{bindAddress}}",
     "bindPort":{{bindPort}},
-    "publicAddress":"{88.99.77.98}",
+    "publicAddress":"88.99.77.98",
     "publicPort":{{publicPort}},
     "a2s":{
         "address":"{{a2s.address}}",
